@@ -1,0 +1,32 @@
+body {
+    /*Un color de fondo y fuente de letra*/
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    /*Un color diferente para los títulos y subtítulos*/
+    color: darkblue;
+}
+
+p {
+    /*Una tipografía o tamaño o color de texto diferente.*/
+    color: black;
+    font-size: 18px;
+}
+
+section {
+    /*Un espacio interno (padding) en alguna sección.*/
+    background-color: white;
+    padding: 20px; /* Espacio interno */
+    border: 2px solid darkblue; /* Borde */
+    margin: 20px; /* Espacio externo */
+}
+
+button {
+    /*El botón o enlace de contacto debe tener algún estilo visual.*/
+    background-color: darkblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
